@@ -1,0 +1,10 @@
+.DS_Store
+/charfall
+/bin/
+/output/
+/*-ascii/
+/*-ascii.*
+/*.test
+/coverage.out
+/.ascii-export-*/
+/.ascii-file-*
